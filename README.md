@@ -1,2 +1,1 @@
-# sketchup-interior-course
-A course on using SketchUp for interior design in Ukrainian
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
