@@ -1,0 +1,80 @@
+# SketchUp Tools and Hotkeys
+
+## Drawing Tools
+- Line (L)
+- Rectangle (R)
+- Circle (C)
+- Arc (A)
+- Polygon (G)
+- Freehand (F)
+
+## Modification Tools
+- Move (M)
+- Rotate (Q)
+- Scale (S)
+- Push/Pull (P)
+- Offset (O)
+- Follow Me (F)
+- Eraser (E)
+
+## Construction Tools
+- Tape Measure (T)
+- Protractor (Q)
+- Axes (A)
+- Dimensions (D)
+- Text (T)
+
+## Camera Tools
+- Orbit (O)
+- Pan (H)
+- Zoom (Z)
+- Zoom Extents (Shift + Z)
+- Look Around (L)
+- Walk (W)
+
+## Section Tools
+- Section Plane (P)
+- Section Cut (C)
+
+## Group and Component Tools
+- Make Group (G)
+- Make Component (G)
+- Explode (X)
+
+## Miscellaneous Tools
+- Paint Bucket (B)
+- Eye Dropper (E)
+- 3D Warehouse (3)
+- Extension Warehouse (E)
+- Shadows (S)
+- Styles (Y)
+- Layers (L)
+- Scenes (S)
+- Outliner (O)
+- Entity Info (I)
+- Materials (M)
+- Components (C)
+- Tags (T)
+- Solid Tools (S)
+- Sandbox Tools (S)
+- Dynamic Components (D)
+- Match Photo (M)
+- Geo-location (G)
+- Animation (A)
+- Fog (F)
+- Shadows (S)
+- Styles (Y)
+- Layers (L)
+- Scenes (S)
+- Outliner (O)
+- Entity Info (I)
+- Materials (M)
+- Components (C)
+- Tags (T)
+- Solid Tools (S)
+- Sandbox Tools (S)
+- Dynamic Components (D)
+- Match Photo (M)
+- Geo-location (G)
+- Animation (A)
+- Fog (F)
