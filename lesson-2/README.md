@@ -2,6 +2,8 @@
 
 ## Файл проекту для уроку
 https://drive.google.com/file/d/1Frkk4UFfHEKfJi5eh3GHAmHrEdCODbTG/view?usp=sharing
+## Детальна відеоінструкція
+https://youtu.be/mr2U_KqeLhY
 
 ## Теоретична частина
 - Визначення несучих стін та перегородок
