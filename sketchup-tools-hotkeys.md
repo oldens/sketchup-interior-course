@@ -1,80 +1,89 @@
-# SketchUp Tools and Hotkeys
+# Довідник гарячих клавіш для SketchUp Online
 
-## Drawing Tools
-- Line (L)
-- Rectangle (R)
-- Circle (C)
-- Arc (A)
-- Polygon (G)
-- Freehand (F)
+## Drawing Tools (Інструменти малювання)
+- **L** - Line (Лінія)  
+  Для створення прямих ліній.
+- **R** - Rectangle (Прямокутник)  
+  Для малювання прямокутників.
+- **C** - Circle (Коло)  
+  Для малювання кіл.
+- **A** - Arc (Дуга)  
+  Для створення дуг.
+- **G** - Polygon (Багатокутник)  
+  Для малювання правильних багатокутників.
+- **F** - Freehand (Від руки)  
+  Для малювання довільних форм.
 
-## Modification Tools
-- Move (M)
-- Rotate (Q)
-- Scale (S)
-- Push/Pull (P)
-- Offset (O)
-- Follow Me (F)
-- Eraser (E)
+## Modification Tools (Інструменти редагування)
+- **M** - Move (Переміщення)  
+  Для переміщення об’єктів.
+- **Q** - Rotate (Обертання)  
+  Для обертання об’єктів.
+- **S** - Scale (Масштабування)  
+  Для зміни розміру об’єктів.
+- **P** - Push/Pull (Витягування/Втиснення)  
+  Для надання об’єктам об’єму.
+- **O** - Offset (Зсув)  
+  Для створення паралельних копій ліній або граней.
+- **N** - Follow Me (Слідуй за мною)  
+  Для створення об’єктів вздовж траєкторії.
+- **E** - Eraser (Гумка)  
+  Для видалення ліній і граней.
 
-## Construction Tools
-- Tape Measure (T)
-- Protractor (Q)
-- Axes (A)
-- Dimensions (D)
-- Text (T)
+## Construction Tools (Інструменти побудови)
+- **T** - Tape Measure (Рулетка)  
+  Для вимірювання відстаней і створення довідкових ліній.
+- **Shift + T** - Protractor (Транспортир)  
+  Для вимірювання та створення кутів.
+- **A** - Axes (Осі)  
+  Для налаштування осей координат.
+- **D** - Dimensions (Розміри)  
+  Для позначення розмірів.
+- **Shift + T** - Text (Текст)  
+  Для додавання текстових приміток.
 
-## Camera Tools
-- Orbit (O)
-- Pan (H)
-- Zoom (Z)
-- Zoom Extents (Shift + Z)
-- Look Around (L)
-- Walk (W)
+## Camera Tools (Інструменти камери)
+- **O** - Orbit (Обертання камери)  
+  Для огляду моделі.
+- **H** - Pan (Переміщення камери)  
+  Для горизонтального переміщення камери.
+- **Z** - Zoom (Масштабування)  
+  Для наближення чи віддалення камери.
+- **Shift + Z** - Zoom Extents (Показ усієї моделі)  
+  Для масштабування, щоб побачити всю модель.
+- **L** - Look Around (Огляд навколо)  
+  Для перегляду з однієї точки.
+- **W** - Walk (Ходьба)  
+  Для переміщення камери як у грі.
 
-## Section Tools
-- Section Plane (P)
-- Section Cut (C)
+## Group and Component Tools (Групи та компоненти)
+- **G** - Make Group (Створити групу)  
+  Для об’єднання об’єктів у групу.
+- **Shift + G** - Make Component (Створити компонент)  
+  Для створення багаторазового компонента.
+- **X** - Explode (Розгрупувати)  
+  Для розгрупування об’єктів.
 
-## Group and Component Tools
-- Make Group (G)
-- Make Component (G)
-- Explode (X)
-
-## Miscellaneous Tools
-- Paint Bucket (B)
-- Eye Dropper (E)
-- 3D Warehouse (3)
-- Extension Warehouse (E)
-- Shadows (S)
-- Styles (Y)
-- Layers (L)
-- Scenes (S)
-- Outliner (O)
-- Entity Info (I)
-- Materials (M)
-- Components (C)
-- Tags (T)
-- Solid Tools (S)
-- Sandbox Tools (S)
-- Dynamic Components (D)
-- Match Photo (M)
-- Geo-location (G)
-- Animation (A)
-- Fog (F)
-- Shadows (S)
-- Styles (Y)
-- Layers (L)
-- Scenes (S)
-- Outliner (O)
-- Entity Info (I)
-- Materials (M)
-- Components (C)
-- Tags (T)
-- Solid Tools (S)
-- Sandbox Tools (S)
-- Dynamic Components (D)
-- Match Photo (M)
-- Geo-location (G)
-- Animation (A)
-- Fog (F)
+## Miscellaneous Tools (Різне)
+- **B** - Paint Bucket (Заливка)  
+  Для фарбування об’єктів.
+- **Shift + E** - Eye Dropper (Піпетка)  
+  Для вибору кольору або текстури.
+- **3** - 3D Warehouse  
+  Для доступу до онлайн-бібліотеки моделей.
+- **Shift + W** - Extension Warehouse  
+  Для завантаження розширень.
+- **Shift + S** - Shadows (Тіні)  
+  Для налаштування тіней.
+- **Y** - Styles (Стилі)  
+  Для вибору стилів відображення.
+- **Shift + L** - Tags (Шари)  
+  Для управління шарами та організації моделі.
+- **Shift + N** - Scenes (Сцени)  
+  Для створення кадрів камери.
+- **Shift + O** - Outliner (Структура)  
+  Для перегляду ієрархії компонентів.
+- **I** - Entity Info (Інформація про об’єкт)  
+  Для перегляду властивостей об’єкта.
+- **Shift + M** - Materials (Матеріали)  
+  Для управління матеріалами.
