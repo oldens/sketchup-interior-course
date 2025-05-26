@@ -159,4 +159,6 @@
 4. [SketchUp. Робимо ніжки стола. Вивчаємо компоненти. Move, Rotate, FollowMe](https://youtu.be/jVEr8SZ3CMg)
 5. [Корпусні меблі. Як швидко конструювати реальні корпуси](https://youtu.be/pwZPiCNAw2c)
 6. [Ефективне створення фасадів у SketchUp](https://youtu.be/ib1ho2MiscI)
+7. [ШІ в дизайні для скептиків. З чого розпочати проект](https://youtu.be/0JWFrotj3Vo)
+8. [Розбір планування маленької квартири](https://youtu.be/ImHuvngufhI)
 
