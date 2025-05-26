@@ -14,7 +14,7 @@
 ## Teacher Resources
 
 ### Концепція курсу
-[Концепція та логіка курсу SketchUp для дизайну інтер'єрів: Від функціонального планування до реалізації (PDF)](./Koncepciya-ta-Logika-Kursu-SketchUp-dlya-Dizajnu-Interyeriv-Vid-Funkcionalnogo-Planuvannya-do-Realiz.pdf)
+[Концепція та логіка курсу SketchUp для дизайну інтер'єрів: Від функціонального планування до реалізації (PDF)](./Koncepciya-ta-Logika-Kursu.pdf)
 
 Педагогічна концепція курсу — огляд педагогічних підходів та методик, що використовуються в курсі.
 
